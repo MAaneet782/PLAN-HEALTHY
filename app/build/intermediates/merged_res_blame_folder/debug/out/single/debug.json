@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_apico.jpeg.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\apico.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_result.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\layout-land\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat_foreground.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\ic_chat_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_camera_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_camera_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_aarogyasetu_foreground.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_aarogyasetu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_camera_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_camera_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_chat_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_chat_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dietplan.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\layout\\activity_dietplan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_female.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\female.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_camera_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_camera_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_aarogyasetu_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_aarogyasetu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_aarogyasetu.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_aarogyasetu.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_chat_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_chat_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_aarogyasetu_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_aarogyasetu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_aarogyasetu.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_aarogyasetu.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_breakfast_icon.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\breakfast_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_male_white.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\male_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bread_slice.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\ic_bread_slice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_female_white.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable-v24\\female_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera_foreground.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\ic_camera_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\font_fa_solid.otf.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\font\\fa_solid.otf"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_camera_round.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_camera_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_aarogyasetu_round.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_aarogyasetu_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_shortcuts.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\xml\\shortcuts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_aarogyasetu.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_aarogyasetu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stepper_background.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\stepper_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_aarogyasetu.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_aarogyasetu.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_camera.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_aarogyasetu_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_aarogyasetu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_chat_round.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_chat_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_camera_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_camera_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_aarogyasetu_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_aarogyasetu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_aarogyasetu_foreground.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_aarogyasetu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_chat_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_chat_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_aarogyasetu_foreground.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_aarogyasetu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_chat_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_chat_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_outline.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\blue_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_male.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\male.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_chat_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_chat_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_chat.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_front.jpeg.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\front.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_aarogyasetu_foreground.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_aarogyasetu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_aarogyasetu_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_aarogyasetu_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_female_white.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\female_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_chat.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_aarogyasetu.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_aarogyasetu.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calculate_btn.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\calculate_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_aarogyasetu_foreground.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_aarogyasetu_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_substract.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\drawable\\substract.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_activity_main.xml.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\layout-v21\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_aarogyasetu.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_aarogyasetu.png"
+    },
+    {
+        "merged": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_camera_round.png.flat",
+        "source": "C:\\Users\\Maneet Singh\\OneDrive\\Desktop\\application\\DietPlan-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_camera_round.png"
+    }
+]

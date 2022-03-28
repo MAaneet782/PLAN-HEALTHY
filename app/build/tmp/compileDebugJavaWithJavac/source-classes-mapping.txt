@@ -1,0 +1,27 @@
+com/adpth/bmicalculator/Category.java
+ com.adpth.bmicalculator.Category
+com/adpth/bmicalculator/BuildConfig.java
+ com.adpth.bmicalculator.BuildConfig
+com/adpth/bmicalculator/SplashActivity.java
+ com.adpth.bmicalculator.SplashActivity
+ com.adpth.bmicalculator.SplashActivity$1
+com/adpth/bmicalculator/ResultActivity.java
+ com.adpth.bmicalculator.ResultActivity
+ com.adpth.bmicalculator.ResultActivity$1
+com/adpth/bmicalculator/Condition.java
+ com.adpth.bmicalculator.Condition
+com/adpth/bmicalculator/DietplanActivity.java
+ com.adpth.bmicalculator.DietplanActivity
+ com.adpth.bmicalculator.DietplanActivity$1
+ com.adpth.bmicalculator.DietplanActivity$2
+ com.adpth.bmicalculator.DietplanActivity$3
+com/adpth/bmicalculator/MainActivity.java
+ com.adpth.bmicalculator.MainActivity
+ com.adpth.bmicalculator.MainActivity$1
+ com.adpth.bmicalculator.MainActivity$2
+ com.adpth.bmicalculator.MainActivity$3
+ com.adpth.bmicalculator.MainActivity$4
+ com.adpth.bmicalculator.MainActivity$5
+ com.adpth.bmicalculator.MainActivity$6
+ com.adpth.bmicalculator.MainActivity$7
+ com.adpth.bmicalculator.MainActivity$8
